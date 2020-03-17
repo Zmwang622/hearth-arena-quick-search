@@ -1,0 +1,402 @@
+Flamestrike:	111
+Twin Tyrant:	111
+Pit Crocolisk:	95
+Fireball:	92
+Polymorph:	91
+Arcane Amplifier:	90
+Evasive Wyrm:	89
+Evasive Drakonid:	87
+Piloted Shredder:	86
+Troll Batrider:	82
+Water Elemental:	82
+Big Ol' Whelp:	80
+Flamecannon:	80
+Frostbolt:	78
+Azure Explorer:	76
+Dark Iron Dwarf:	76
+Hailbringer:	75
+Candletaker:	73
+Bone Wraith:	72
+Stormwind Champion:	72
+Amani Berserker:	71
+Blazing Battlemage:	71
+Furious Ettin:	71
+Mechanical Yeti:	71
+Temple Berserker:	71
+Mad Bomber:	69
+Snowchugger:	69
+Animated Avalanche:	68
+Blackwald Pixie:	68
+Boulderfist Ogre:	68
+Frost Elemental:	68
+Living Dragonbreath:	68
+Scarlet Crusader:	68
+Shattered Sun Cleric:	68
+Silver Hand Knight:	68
+Tanglefur Mystic:	68
+Chillwind Yeti:	67
+Spider Tank:	67
+Swift Messenger:	67
+Gyrocopter:	66
+Hippogryph:	66
+Ogre Brute:	66
+Sen'jin Shieldmasta:	66
+Spellbreaker:	66
+Annoy-o-Tron:	65
+Cult Master:	65
+Dire Wolf Alpha:	65
+Earthen Ring Farseer:	65
+Evasive Feywing:	65
+Flame Ward:	65
+Harvest Golem:	65
+Argent Squire:	64
+Fire Hawk:	64
+Loot Hoarder:	64
+Mechwarper:	64
+Murmy:	64
+Scalerider:	64
+Stranglethorn Tiger:	64
+Wasteland Assassin:	64
+Acolyte of Pain:	63
+Bug Collector:	63
+Sorcerer's Apprentice:	63
+Violet Spellwing:	63
+Walnut Sprite:	63
+Arcane Intellect:	62
+Frostwolf Warlord:	62
+Beaming Sidekick:	61
+Darkscale Healer:	61
+Faceless Lurker:	61
+Faerie Dragon:	61
+Fen Creeper:	61
+Gilblin Stalker:	61
+Injured Tol'vir:	61
+Rotten Applebaum:	61
+Stonesplinter Trogg:	61
+Worgen Infiltrator:	61
+Acidic Swamp Ooze:	60
+Elven Archer:	60
+Evasive Chimaera:	60
+Gnomish Inventor:	60
+Golden Scarab:	60
+Murloc Tidehunter:	60
+Ravencaller:	60
+Fishflinger:	59
+Mirror Entity:	59
+Force-Tank MAX:	58
+Stormwind Knight:	58
+Burly Rockjaw Trogg:	57
+Camouflaged Dirigible:	57
+Raging Worgen:	57
+Spiteful Smith:	57
+Stormpike Commando:	57
+Bloodfen Raptor:	56
+Bloodsail Raider:	56
+Puddlestomper:	56
+River Crocolisk:	56
+Ship's Cannon:	56
+Tinkertown Technician:	56
+Vex Crow:	56
+Wasteland Scorpid:	56
+Clockwork Gnome:	55
+Explosive Sheep:	55
+Platebreaker:	55
+Archmage:	54
+Goboglide Tech:	54
+Hot Air Balloon:	54
+Lost Tallstrider:	54
+Micro Machine:	54
+Razorfen Hunter:	54
+Venture Co. Mercenary:	54
+Desert Hare:	53
+Jungle Panther:	53
+Novice Engineer:	53
+Silvermoon Guardian:	53
+Wolfrider:	53
+Ironfur Grizzly:	52
+Arcane Explosion:	51
+Arcane Missiles:	51
+Dragonling Mechanic:	51
+Flesheating Ghoul:	51
+Gurubashi Berserker:	51
+Ogre Magi:	51
+Phalanx Commander:	51
+Abusive Sergeant:	50
+Bluegill Warrior:	50
+Hench-Clan Thug:	50
+Jar Dealer:	50
+Oasis Snapjaw:	50
+Youthful Brewmaster:	50
+Deranged Doctor:	49
+Living Monument:	49
+Lord of the Arena:	49
+Reckless Rocketeer:	49
+Swamp Leech:	49
+Voodoo Doctor:	49
+War Golem:	49
+Ancient Brewmaster:	47
+Cone of Cold:	47
+Ironforge Rifleman:	47
+Pumpkin Peasant:	47
+Antique Healbot:	46
+Clockwork Automaton:	46
+Cloud Prince:	46
+Kobold Geomancer:	46
+Mirror Image:	45
+Skydiving Instructor:	45
+Spellshifter:	45
+Felsoul Inquisitor:	44
+Mogu'shan Warden:	43
+Nightblade:	43
+Salty Dog:	42
+Southsea Deckhand:	42
+Stonetusk Boar:	42
+Vicious Scalehide:	42
+Cauldron Elemental:	41
+Murloc Raider:	41
+Raid Leader:	41
+Frost Nova:	40
+Booty Bay Bodyguard:	39
+Frostwolf Grunt:	39
+Marsh Drake:	39
+Wing Commander:	39
+Cogmaster:	38
+Gnomeregan Infantry:	38
+Mana Wyrm:	38
+Wyrmguard:	38
+Tome of Intellect:	37
+Ironbeak Owl:	36
+Tasty Flyfish:	36
+Goldshire Footman:	35
+Priestess of Elune:	35
+Tauren Warrior:	35
+Vilefiend:	35
+Dread Corsair:	34
+Parachute Brigand:	34
+Serpent Egg:	34
+Ancient Mysteries:	33
+Anubisath Warbringer:	32
+Core Hound:	31
+Darkmire Moonkin:	30
+Learn Draconic:	30
+Windfury Harpy:	30
+Lost Spirit:	28
+Spitting Camel:	28
+Snap Freeze:	27
+Swamp Dragon Egg:	27
+Shieldbearer:	26
+Ice Barrier:	24
+Thrallmar Farseer:	24
+Wisp:	23
+Unpowered Steambot:	22
+Kobold Sandtrooper:	21
+Leper Gnome:	17
+Silverback Patriarch:	17
+Magma Rager:	16
+Dalaran Mage:	14
+Flying Machine:	12
+Young Dragonhawk:	10
+Grimscale Oracle:	6
+Wrapped Golem:	105
+Faceless Corruptor:	91
+Dragonmaw Poacher:	86
+Bomb Lobber:	83
+Arcane Breath:	80
+Quicksand Elemental:	77
+Argent Commander:	76
+Stampeding Kodo:	74
+Goblin Blastmage:	73
+Neferset Ritualist:	73
+Blizzard:	72
+Defender of Argus:	70
+Gilnean Royal Guard:	70
+Twilight Drake:	70
+Unstable Portal:	70
+Cobalt Spellkin:	69
+Madder Bomber:	69
+Bad Luck Albatross:	68
+Sunwalker:	68
+Violet Teacher:	68
+Arcane Flakmage:	67
+Frenzied Felwing:	67
+Chief Inspector:	64
+Imp Master:	64
+Infested Goblin:	63
+Knife Juggler:	63
+Wild Pyromancer:	63
+Bonfire Elemental:	62
+Dragon Breeder:	62
+Dune Sculptor:	61
+Emperor Cobra:	61
+Phantom Militia:	61
+SI:7 Infiltrator:	61
+Sunfury Protector:	60
+Witchwood Grizzly:	60
+Kirin Tor Mage:	59
+Injured Blademaster:	58
+Young Priestess:	58
+Khartut Defender:	57
+Licensed Adventurer:	57
+Crazed Alchemist:	56
+Gnomish Experimenter:	56
+Naga Sand Witch:	56
+Soot Spewer:	55
+Questing Adventurer:	54
+Witchwood Piper:	54
+Counterspell:	53
+Mana Wraith:	53
+Arcane Nullifier X-21:	52
+Scaleworm:	52
+Pint-Sized Summoner:	51
+Sunstruck Henchman:	50
+Jeeves:	49
+Demolisher:	48
+Vaporize:	48
+Ravenholdt Assassin:	47
+Illuminator:	45
+Lil' Exorcist:	45
+Utgarde Grapplesniper:	45
+Curio Collector:	44
+Goblin Sapper:	44
+Kezan Mystic:	44
+Cinderstorm:	43
+Abomination:	42
+Mad Hatter:	42
+Master Swordsmith:	41
+Generous Mummy:	40
+Lifedrinker:	39
+Dragoncaster:	35
+Gadgetzan Auctioneer:	35
+Bloodsail Corsair:	34
+Zul'Drak Ritualist:	33
+Ancient Mage:	32
+Secretkeeper:	32
+Lightwarden:	31
+Murloc Tidecaller:	30
+Night Prowler:	30
+Depth Charge:	27
+Target Dummy:	27
+Mana Addict:	25
+Conjured Mirage:	24
+Hoard Pillager:	22
+Arcane Devourer:	21
+Ethereal Arcanist:	18
+Arcane Golem:	17
+Coldlight Seer:	13
+Angry Chicken:	9
+Elemental Allies:	4
+Alarm-o-Bot:	1
+Puzzle Box of Yogg-Saron:	95
+Rolling Fireball:	94
+Sea Giant:	82
+Worgen Abomination:	82
+Book of Specters:	81
+Piloted Sky Golem:	80
+Vulpera Scoundrel:	80
+History Buff:	76
+Voodoo Doll:	76
+Mossy Horror:	73
+Arcane Keysmith:	71
+Blowtorch Saboteur:	71
+Pyroblast:	71
+Fel Reaver:	70
+Escaped Manasaber:	69
+Nightmare Amalgam:	69
+Dread Raven:	67
+Mana Giant:	64
+Big Game Hunter:	63
+Boompistol Bully:	63
+Blood Knight:	61
+Dwarven Archaeologist:	59
+Recombobulator:	59
+Faceless Manipulator:	56
+Doomsayer:	55
+Grizzled Wizard:	55
+Tentacled Menace:	55
+Muck Hunter:	54
+Spellbender:	54
+Transmogrifier:	53
+Hobgoblin:	52
+Icicle:	51
+Mischief Maker:	50
+Murloc Warleader:	50
+Sandbinder:	50
+Southsea Captain:	50
+Witch's Cauldron:	50
+Tortollan Pilgrim:	49
+Body Wrapper:	47
+Enhance-o Mechano:	46
+Echo of Medivh:	41
+Kobold Stickyfinger:	40
+Skyfin:	38
+Blatant Decoy:	36
+Mini-Mage:	36
+Barrens Stablehand:	35
+Wyrmrest Purifier:	34
+Hungry Crab:	33
+Mountain Giant:	32
+Wee Spellstopper:	32
+Baleful Banker:	29
+Chromatic Egg:	29
+Mortuary Machine:	29
+Splitting Festeroot:	26
+Clockwork Giant:	25
+Junkbot:	9
+Mogu Cultist:	5
+Desert Obelisk:	1
+Dr. Boom:	112
+Siamat:	107
+Deathwing:	105
+Onyxia:	94
+Zephrys the Great:	91
+Baron Geddon:	89
+Octosari:	85
+Dragonqueen Alexstrasza:	84
+The Black Knight:	83
+Reno the Relicologist:	82
+Ysera:	82
+Archmage Antonidas:	81
+Cairne Bloodhoof:	79
+Countess Ashmore:	78
+High Inquisitor Whitemane:	74
+Foe Reaper 4000:	73
+Hogger:	73
+Brightwing:	72
+Toshley:	72
+Toki, Time-Tinker:	71
+Sneed's Old Shredder:	69
+Alexstrasza:	68
+Archmage Arugal:	68
+Malygos, Aspect of Magic:	67
+Shu'ma:	67
+Illidan Stormrage:	66
+Troggzor the Earthinator:	66
+Sathrovarr:	64
+Flame Leviathan:	63
+Mogor the Ogre:	63
+Frizz Kindleroost:	62
+Colossus of the Moon:	60
+Gruul:	59
+Harrison Jones:	58
+Bloodmage Thalnos:	57
+Chenvaala:	55
+Hemet Nesingwary:	55
+King Mukla:	55
+Tinkmaster Overspark:	55
+Mekgineer Thermaplugg:	53
+Malygos:	50
+Leeroy Jenkins:	48
+Blingtron 3000:	46
+The Beast:	44
+Mimiron's Head:	41
+Nozdormu:	40
+Captain Greenskin:	39
+Dollmaster Dorian:	36
+Millhouse Manastorm:	31
+Azalina Soulthief:	30
+King Phaoris:	30
+Gazlowe:	28
+Nat Pagle:	21
+Sky Gen'ral Kragg:	21
+Grand Lackey Erkh:	12
+Lorewalker Cho:	8
