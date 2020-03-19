@@ -12,6 +12,7 @@ heroes = {
 5 : 'Priest',
 6 : 'Rogue',
 7 : 'Shaman',
+8 : 'Warlock',
 9 : 'Warrior'}
 
 #Takes int corresponding to user's hero
